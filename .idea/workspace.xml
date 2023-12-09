@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95459b82-1dbc-4f34-baa6-d3c84373e53d" name="Changes" comment="" />
+    <list default="true" id="95459b82-1dbc-4f34-baa6-d3c84373e53d" name="Changes" comment="homework 12 done">
+      <change afterPath="$PROJECT_DIR$/hw12-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,9 +27,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Илья/IdeaProjects/hw12"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Илья\IdeaProjects\hw12" />
+      <recent name="C:\Users\Илья\IdeaProjects\hw12\src\main\java\goit\homeworks" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.FizzBuzzWatcher">
     <configuration name="FizzBuzzWatcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="goit.homeworks.threads.FizzBuzzWatcher" />
@@ -68,6 +81,18 @@
       <option name="presentableId" value="Default" />
       <updated>1702146142848</updated>
     </task>
+    <task id="LOCAL-00001" summary="homework 12 done">
+      <created>1702146456179</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702146456179</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homework 12 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 12 done" />
   </component>
 </project>
