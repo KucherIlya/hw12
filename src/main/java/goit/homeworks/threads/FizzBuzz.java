@@ -1,4 +1,4 @@
-package IK.threads;
+package goit.homeworks.threads;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.ExecutorService;

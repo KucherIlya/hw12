@@ -1,4 +1,4 @@
-package IK.threads;
+package goit.homeworks.threads;
 
 public class SecondsCounter {
 
